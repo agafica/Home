@@ -1,0 +1,15 @@
+/Users/Albina/Desktop/HomeWork/Home1/bin/Debug/net6.0/Home1
+/Users/Albina/Desktop/HomeWork/Home1/bin/Debug/net6.0/Home1.deps.json
+/Users/Albina/Desktop/HomeWork/Home1/bin/Debug/net6.0/Home1.runtimeconfig.json
+/Users/Albina/Desktop/HomeWork/Home1/bin/Debug/net6.0/Home1.dll
+/Users/Albina/Desktop/HomeWork/Home1/bin/Debug/net6.0/Home1.pdb
+/Users/Albina/Desktop/HomeWork/Home1/obj/Debug/net6.0/Home1.csproj.AssemblyReference.cache
+/Users/Albina/Desktop/HomeWork/Home1/obj/Debug/net6.0/Home1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Albina/Desktop/HomeWork/Home1/obj/Debug/net6.0/Home1.AssemblyInfoInputs.cache
+/Users/Albina/Desktop/HomeWork/Home1/obj/Debug/net6.0/Home1.AssemblyInfo.cs
+/Users/Albina/Desktop/HomeWork/Home1/obj/Debug/net6.0/Home1.csproj.CoreCompileInputs.cache
+/Users/Albina/Desktop/HomeWork/Home1/obj/Debug/net6.0/Home1.dll
+/Users/Albina/Desktop/HomeWork/Home1/obj/Debug/net6.0/refint/Home1.dll
+/Users/Albina/Desktop/HomeWork/Home1/obj/Debug/net6.0/Home1.pdb
+/Users/Albina/Desktop/HomeWork/Home1/obj/Debug/net6.0/Home1.genruntimeconfig.cache
+/Users/Albina/Desktop/HomeWork/Home1/obj/Debug/net6.0/ref/Home1.dll
